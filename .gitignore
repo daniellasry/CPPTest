@@ -1,0 +1,3 @@
+# cmake build directories
+build
+.vscode/ipch
