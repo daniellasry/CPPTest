@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(CPPTest VERSION 1.0.0 DESCRIPTION "Testing C++ wrappers")
+project(CPPTest VERSION 1.0.0 LANGUAGES CXX DESCRIPTION "Testing C++ wrappers")
 
 # To build shared libraries in Windows, we set CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS to TRUE.
 # See https://cmake.org/cmake/help/v3.4/variable/CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS.html
