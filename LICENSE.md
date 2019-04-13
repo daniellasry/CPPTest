@@ -1,1 +1,1 @@
-LICENSE goes here
+WTFPL :)
